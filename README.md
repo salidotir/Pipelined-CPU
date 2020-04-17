@@ -8,3 +8,5 @@ Each instruction is done in 5 stages:
 3. Execute
 4. Memory
 5. Write back
+
+All codes including main CPU, have test bench.
